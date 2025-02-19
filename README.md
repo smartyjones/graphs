@@ -5,7 +5,6 @@
 config:
   layout: elk
   look: handDrawn
-  theme: dark
 ---
 graph TD
     subgraph GitHub Repository
