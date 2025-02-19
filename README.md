@@ -24,6 +24,8 @@ graph TD
     style E fill:#9ff,stroke:#333,stroke-width:2px
     style F fill:#ff9,stroke:#333,stroke-width:2px
     style G fill:#f99,stroke:#333,stroke-width:2px
+```
+```mermaid
 ---
 config:
   layout: dagre
@@ -47,5 +49,4 @@ graph TD
     style E fill:#9ff,stroke:#333,stroke-width:2px
     style F fill:#ff9,stroke:#333,stroke-width:2px
     style G fill:#f99,stroke:#333,stroke-width:2px
-
 ```
